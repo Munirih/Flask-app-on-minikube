@@ -3,7 +3,7 @@
 ### Pre-requisite
 
 - Docker Desktop to run your minikube as a container or a virtual machine environment to run it as a Virtual machine.
-- Minikube cluster
+- Minikube
 - Web application Docker image to be pulled in the kubernetes cluster
 - VSCode
 - Make sure you have enough resources on your local machine and refer to the minikube official documentation [Here](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download) to install minikube depending on your operating system. 
