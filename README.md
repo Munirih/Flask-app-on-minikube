@@ -136,8 +136,8 @@ Press Ctrl + C to stop the tunnel
 
 ### Cleanup the cluster
 
-`kubectl delete -f deployment.yaml`
+`kubectl delete -f <deployment-name.yaml>`
 
-`kubectl delete -f service.yaml`
+`kubectl delete -f <service-name.yaml>`
 
 `minikube delete`
