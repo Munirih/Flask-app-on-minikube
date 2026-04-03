@@ -140,4 +140,4 @@ Press Ctrl + C to stop the tunnel
 
 `kubectl delete -f <service-name.yaml>`
 
-`minikube delete`
+Open your terminal in administrator mode and run `minikube delete` to delete minikube container
